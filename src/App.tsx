@@ -208,16 +208,16 @@ function App() {
             </h2>
             <div className="space-y-6">
               <div className="bg-white p-6 rounded-lg shadow-md">
-                <h3 className="text-xl font-semibold mb-2">Students</h3>
+                {/* <h3 className="text-xl font-semibold mb-2">Students</h3> */}
                 <p className="text-gray-700">
                   TEAM BEE-FINANCIAL AIMS TO SUPPORT INDIVIDUALS WHO ARE FACING
                   TEMPORARY FINANCIAL HARDSHIP AND DIFFICULTIES.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-md">
-                <h3 className="text-xl font-semibold mb-2">
+                {/* <h3 className="text-xl font-semibold mb-2">
                   Needy Individuals
-                </h3>
+                </h3> */}
                 <p className="text-gray-700">
                   PEOPLE STRUGGLING WITH TEMPORARY FINANCIAL SETBACKS AND
                   REQUIRING SHORT-TERM FINANCIAL AID.
