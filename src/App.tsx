@@ -281,7 +281,7 @@ function App() {
             </div>
             <div className="text-center">
               <p className="text-sm text-gray-400">FOUNDED BY</p>
-              <p className="font-semibold">YAN XUNGO</p>
+              <p className="font-semibold">YAN JANGIO</p>
             </div>
           </div>
         </div>
